@@ -6,6 +6,8 @@ platforms = ["win-64"]
 version = "0.1.0"
 
 [tasks]
+install-kernel = "python -m ipykernel install --user --name ibots-eeg"
+
 
 [dependencies]
 python = "3.12.*"
