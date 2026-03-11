@@ -4,15 +4,17 @@
 *.egg-info
 
 # content
-01_solutions*
-02_solutions*
-03_*
-03_solutions*
-04_*
 04_solutions*
+05_solutions*
+06_solutions*
+07_*
+07_solutions*
+08_*
+08_solutions*
 
 #data
 *.fif
+*.stc
 
 #tooling
 .vscode

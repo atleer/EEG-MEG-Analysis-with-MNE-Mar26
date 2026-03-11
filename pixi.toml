@@ -17,6 +17,7 @@ ipykernel = ">=7.2.0,<8"
 pyvistaqt = ">=0.11.3,<0.12"
 autoreject = ">=0.4.3,<0.5"
 mne-connectivity = ">=0.7.0,<0.8"
+mne-icalabel = ">=0.8.1,<0.9"
 
 [pypi-dependencies]
 mtrf = ">=2.1.2, <3"
